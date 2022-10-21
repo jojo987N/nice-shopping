@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  title = '<b>Home page</b>';
+  title = '<i>Home page</i>';
   description!:string;
   constructor() { }
 
